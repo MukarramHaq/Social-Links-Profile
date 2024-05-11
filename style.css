@@ -37,7 +37,6 @@ img{
 .social-container{
     display: flex;
     flex-direction: column;
-    margin: 0.5rem;
 }
 .social-container span{
     border-radius: 10px;
